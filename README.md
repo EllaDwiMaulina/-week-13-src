@@ -13,3 +13,9 @@ Kode tersebut membuat stream yang memancarkan warna dari daftar colors secara be
 ### Soal 5
 1. Jelaskan perbedaan menggunakan listen dan await for (langkah 9) ! :
 Perbedaan antara listen dan await for adalah listen digunakan untuk memantau stream dengan callback dan memungkinkan kita menghentikan atau melanjutkan stream, sedangkan await for dipakai dalam fungsi async untuk memproses data dari stream satu per satu secara berurutan.
+
+### Soal 6
+Jelaskan maksud kode langkah 8 dan 10 tersebut! :
+Pada langkah 8, stream disiapkan dan dipantau untuk memperbarui tampilan setiap kali ada data baru, sedangkan pada langkah 10, angka acak dibuat dan dikirimkan ke dalam stream.
+
+![GIf](assets/W13%20Jawaban%20Soal%206.gif)
